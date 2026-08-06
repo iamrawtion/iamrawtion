@@ -134,19 +134,19 @@
     <img src="https://img.shields.io/badge/Portfolio-iamrawtion.github.io-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/roshannagekar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Roshan_Nagekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Roshan_Nagekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="https://twitter.com/iamrawtion" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@iamrawtion-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-@iamrawtion-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://medium.com/@RoshanNagekar" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@RoshanNagekar-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-@RoshanNagekar-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.quora.com/profile/Roshan-Nagekar" target="_blank">
     <img src="https://img.shields.io/badge/Quora-Roshan_Nagekar-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
   </a>
   <a href="https://t.me/securedevops" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@securedevops-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-@securedevops-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 

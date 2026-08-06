@@ -1,10 +1,22 @@
+![Profile Views](https://komarev.com/ghpvc/?username=iamrawtion&color=0e75b6&style=flat&label=Profile+Views)
+
 # Hi, I'm Roshan Nagekar 👋
 
-**Visiting Professor · Senior DevOps Engineer · Technical Writer**
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&width=500&lines=Visiting+Professor+%F0%9F%8E%93;Senior+DevOps+Engineer+%F0%9F%94%A7;Technical+Writer+%E2%9C%8D%EF%B8%8F;DevSecOps+Practitioner+%F0%9F%94%92;Community+Builder+%F0%9F%A4%9D" alt="Typing animation" />
+</p>
 
 15+ years guiding organizations through technology transformation — from infrastructure and SRE to DevSecOps and AIOps. Currently teaching the next generation of engineers, consulting independently, and writing about what I build.
 
 📍 Pune, Maharashtra, India · 📧 roshan4074@gmail.com
+
+---
+
+## Currently working on
+
+- 🔬 Exploring MCP server security and AI agent governance
+- 🤖 Building automation pipelines with n8n and AI agents
+- 📝 Writing about DevSecOps, AIOps, and platform engineering
 
 ---
 
@@ -123,3 +135,9 @@
 [![Quora](https://img.shields.io/badge/Quora-Roshan_Nagekar-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Roshan-Nagekar)
 [![Telegram](https://img.shields.io/badge/Telegram-@securedevops-2CA5E0?style=flat&logo=telegram)](https://t.me/securedevops)
 [![Twitter](https://img.shields.io/badge/Twitter-@iamrawtion-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iamrawtion)
+
+---
+
+### 💬 Have a DevOps challenge, consulting need, or want to collaborate?
+
+**Let's talk** → roshan4074@gmail.com · [LinkedIn](https://linkedin.com/in/roshannagekar) · [Telegram](https://t.me/securedevops)

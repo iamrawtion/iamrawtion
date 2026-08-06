@@ -106,6 +106,10 @@
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-eight-delta.vercel.app/api?username=iamrawtion&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-eight-delta.vercel.app/api/top-langs/?username=iamrawtion&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrawtion&theme=react-dark&hide_border=true&area=true" />
 </p>
 

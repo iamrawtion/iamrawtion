@@ -131,22 +131,22 @@
 
 <p align="left">
   <a href="https://iamrawtion.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-iamrawtion.github.io-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-Portfolio-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/roshannagekar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="https://twitter.com/iamrawtion" target="_blank">
-    <img src="https://img.shields.io/badge/X-@iamrawtion-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
-  </a>
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;
   <a href="https://medium.com/@RoshanNagekar" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-@RoshanNagekar-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;
   <a href="https://www.quora.com/profile/Roshan-Nagekar" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-Roshan_Nagekar-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>&nbsp;
   <a href="https://t.me/securedevops" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@securedevops-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 

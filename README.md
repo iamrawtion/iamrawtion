@@ -110,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrawtion&layout=compact&theme=dark&hide_border=true" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrawtion&theme=dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrawtion&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---

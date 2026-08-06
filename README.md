@@ -134,7 +134,7 @@
     <img src="https://img.shields.io/badge/Portfolio-iamrawtion.github.io-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/roshannagekar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Roshan_Nagekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/iamrawtion" target="_blank">
     <img src="https://img.shields.io/badge/X-@iamrawtion-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" />
